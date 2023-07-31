@@ -1,6 +1,22 @@
-# AIB_TP1
+# AIB_Team Project 1
 Personal records repo from team project for upgrading prediction model
 
-# What I did as a team leader
+# Purpose 
 
-# What I did as team member
+## Business Benefits
+
+## Who can be interested in
+
+# Process 
+
+## What I did as a team leader
+
+## What I did as a team member
+
+# Review
+
+## What I learned
+
+## What's missing
+
+## Further actions
